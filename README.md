@@ -14,7 +14,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solarblue&label=Profile%20views&color=blue&style=flat" alt="solarblue" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a> 
+
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="python" width="40" height="40"/> </a> 
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg?raw=true" alt="robot" width="40" height="40"/> </a> 
@@ -26,7 +28,9 @@
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg?raw=true" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg?raw=true" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg?raw=true" alt="mqtt" width="40" height="40"/> </a> 
+</p>
 
+<p align="left"> 
 <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg?raw=true" alt="yocto" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg?raw=true" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true" alt="docker" width="40" height="40"/> </a>
@@ -39,8 +43,10 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg?raw=true" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.fiware.org/" target="_blank" rel="noreferrer"> <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary.svg?raw=true" alt="fiware" width="40" height="40"/> </a>
+</p>
 
+<p align="left"> 
 <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original.svg?raw=true" alt="bitbucket" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg?raw=true" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/confluence/confluence-original.svg?raw=true" alt="confluence" width="40" height="40"/> </a>
-
+</p>
