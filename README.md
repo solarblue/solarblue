@@ -25,14 +25,6 @@
 <td><a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg?raw=true" alt="mqtt" width="40" height="40"/> </a></td> 
 </tr>
 <tr>
-<td><a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg?raw=true" alt="robot" width="40" height="40"/> </a></td> 
-<td><a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg?raw=true" alt="pytest" width="40" height="40"/> </a></td>
-<td><a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cmake/cmake-original.svg?raw=true" alt="cmake" width="40" height="40"/> </a></td>  
-<td><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg?raw=true" alt="jenkins" width="40" height="40"/> </a></td> 
-<td><a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg?raw=true" alt="raspberrypi" width="40" height="40"/> </a></td> 
-<td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg?raw=true" alt="arduino" width="40" height="40"/> </a></td> 
-</tr>
-<tr>
 <td><a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg?raw=true" alt="yocto" width="40" height="40"/> </a></td> 
 <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg?raw=true" alt="kubernetes" width="40" height="40"/> </a></td> 
 <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true" alt="docker" width="40" height="40"/> </a></td>
@@ -47,6 +39,14 @@
 <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" alt="postgresql" width="40" height="40"/> </a></td> 
 <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg?raw=true" alt="mongodb" width="40" height="40"/> </a></td> 
 <td><a href="https://www.fiware.org/" target="_blank" rel="noreferrer"> <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary.svg?raw=true" alt="fiware" width="40" height="40"/> </a></td>
+</tr>
+<tr>
+<td><a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg?raw=true" alt="robot" width="40" height="40"/> </a></td> 
+<td><a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg?raw=true" alt="pytest" width="40" height="40"/> </a></td>
+<td><a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cmake/cmake-original.svg?raw=true" alt="cmake" width="40" height="40"/> </a></td>  
+<td><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg?raw=true" alt="jenkins" width="40" height="40"/> </a></td> 
+<td><a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg?raw=true" alt="raspberrypi" width="40" height="40"/> </a></td> 
+<td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg?raw=true" alt="arduino" width="40" height="40"/> </a></td> 
 </tr>
 <tr>
 <td><a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original.svg?raw=true" alt="bitbucket" width="40" height="40"/> </a></td>
