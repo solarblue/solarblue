@@ -15,44 +15,42 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="python" width="40" height="40"/> </a> 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg?raw=true" alt="go" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" alt="cpp" width="40" height="40"/> </a>
-<a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg?raw=true" alt="mqtt" width="40" height="40"/> </a> 
-</p>
-
-<p align="left"> 
-<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg?raw=true" alt="robot" width="40" height="40"/> </a> 
-<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg?raw=true" alt="pytest" width="40" height="40"/> </a>
-<a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cmake/cmake-original.svg?raw=true" alt="cmake" width="40" height="40"/> </a>  
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg?raw=true" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg?raw=true" alt="raspberrypi" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg?raw=true" alt="arduino" width="40" height="40"/> </a> 
-</p>
-
-<p align="left"> 
-<a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg?raw=true" alt="yocto" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg?raw=true" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg?raw=true" alt="terraform" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg?raw=true" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg?raw=true" alt="ansible" width="40" height="40"/> </a>
-</p>
-
-<p align="left"> 
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg?raw=true" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg?raw=true" alt="prometheus" width="40" height="40"/> </a> 
-<a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg?raw=true" alt="influxdb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg?raw=true" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.fiware.org/" target="_blank" rel="noreferrer"> <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary.svg?raw=true" alt="fiware" width="40" height="40"/> </a>
-</p>
-
-<p align="left"> 
-<a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original.svg?raw=true" alt="bitbucket" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg?raw=true" alt="jira" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/confluence/confluence-original.svg?raw=true" alt="confluence" width="40" height="40"/> </a>
-</p>
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="linux" width="40" height="40"/> </a></td> 
+<td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg?raw=true" alt="bash" width="40" height="40"/> </a></td> 
+<td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="python" width="40" height="40"/> </a></td> 
+<td><a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg?raw=true" alt="go" width="40" height="40"/> </a></td> 
+<td><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" alt="cpp" width="40" height="40"/> </a></td>
+<td><a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg?raw=true" alt="mqtt" width="40" height="40"/> </a></td> 
+</tr>
+<tr>
+<td><a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://robotframework.org/img/RF.svg?raw=true" alt="robot" width="40" height="40"/> </a></td> 
+<td><a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg?raw=true" alt="pytest" width="40" height="40"/> </a></td>
+<td><a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cmake/cmake-original.svg?raw=true" alt="cmake" width="40" height="40"/> </a></td>  
+<td><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg?raw=true" alt="jenkins" width="40" height="40"/> </a></td> 
+<td><a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg?raw=true" alt="raspberrypi" width="40" height="40"/> </a></td> 
+<td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg?raw=true" alt="arduino" width="40" height="40"/> </a></td> 
+</tr>
+<tr>
+<td><a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg?raw=true" alt="yocto" width="40" height="40"/> </a></td> 
+<td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg?raw=true" alt="kubernetes" width="40" height="40"/> </a></td> 
+<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true" alt="docker" width="40" height="40"/> </a></td>
+<td><a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg?raw=true" alt="terraform" width="40" height="40"/> </a></td>
+<td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg?raw=true" alt="aws" width="40" height="40"/> </a></td>
+<td><a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg?raw=true" alt="ansible" width="40" height="40"/> </a></td>
+</tr>
+<tr>
+<td><a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg?raw=true" alt="grafana" width="40" height="40"/> </a></td> 
+<td><a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg?raw=true" alt="prometheus" width="40" height="40"/> </a></td> 
+<td><a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg?raw=true" alt="influxdb" width="40" height="40"/> </a></td> 
+<td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" alt="postgresql" width="40" height="40"/> </a></td> 
+<td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg?raw=true" alt="mongodb" width="40" height="40"/> </a></td> 
+<td><a href="https://www.fiware.org/" target="_blank" rel="noreferrer"> <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary.svg?raw=true" alt="fiware" width="40" height="40"/> </a></td>
+</tr>
+<tr>
+<td><a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original.svg?raw=true" alt="bitbucket" width="40" height="40"/> </a></td>
+<td><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg?raw=true" alt="jira" width="40" height="40"/> </a></td>
+<td><a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/confluence/confluence-original.svg?raw=true" alt="confluence" width="40" height="40"/> </a></td>
+</tr>
+</table>
